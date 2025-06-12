@@ -52,7 +52,7 @@ In this repository, you'll find:
 
 > Appium Automation Testing Company  
 > Appium Automation Testing Services  
-> [Appium Testing Company](https://metadesignsolutions.com/technology/appium-testing-services/) 
+> [Appium Testing Company](https://metadesignsolutions.com/technology/appium-testing-services/)  
 > Hire Appium Testers
 
 ---
